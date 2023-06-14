@@ -1,8 +1,14 @@
----
-title: "Test"
-date: 2023-06-14T19:00:39-04:00
-draft: false
-comments: false
-images: 
----
-
++++
+title = "Test"
+date = "2023-06-14T19:14:28-04:00"
+author = ""
+authorTwitter = "" #do not include @
+cover = ""
+tags = ["", ""]
+keywords = ["", ""]
+description = ""
+showFullContent = false
+readingTime = false
+hideComments = false
+color = "" #color from the theme settings
++++
