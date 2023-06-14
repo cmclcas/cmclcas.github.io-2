@@ -1,0 +1,4 @@
+baseURL = 'https://cmclcas.github.io'
+languageCode = 'en-us'
+title = 'post punk dot blog'
+theme = 'terminal'
