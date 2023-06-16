@@ -2,7 +2,6 @@
 title = "a test of a post"
 date = "2023-06-16T12:11:45-04:00"
 author = "cmc"
-authorTwitter = "" #do not include @
 cover = ""
 tags = ["test", "woo!"]
 keywords = ["", ""]
