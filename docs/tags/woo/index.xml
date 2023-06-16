@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>woo! on Terminal</title>
+    <link>https://cmclcas.github.io/tags/woo/</link>
+    <description>Recent content in woo! on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 16 Jun 2023 12:11:45 -0400</lastBuildDate><atom:link href="https://cmclcas.github.io/tags/woo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>a test of a post</title>
+      <link>https://cmclcas.github.io/posts/test/</link>
+      <pubDate>Fri, 16 Jun 2023 12:11:45 -0400</pubDate>
+      
+      <guid>https://cmclcas.github.io/posts/test/</guid>
+      <description>testing testing testing
+is this post working?</description>
+      <content>&lt;p&gt;testing testing testing&lt;/p&gt;
+&lt;p&gt;is this post working?&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

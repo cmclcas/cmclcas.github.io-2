@@ -1,10 +1,10 @@
 +++
 title = "a test of a post"
 date = "2023-06-16T12:11:45-04:00"
-author = ""
+author = "cmc"
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["", ""]
+tags = ["test", "woo!"]
 keywords = ["", ""]
 description = ""
 showFullContent = false

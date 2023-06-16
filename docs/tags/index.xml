@@ -5,6 +5,27 @@
     <link>https://cmclcas.github.io/tags/</link>
     <description>Recent content in Tags on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://cmclcas.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 16 Jun 2023 12:11:45 -0400</lastBuildDate><atom:link href="https://cmclcas.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>https://cmclcas.github.io/tags/test/</link>
+      <pubDate>Fri, 16 Jun 2023 12:11:45 -0400</pubDate>
+      
+      <guid>https://cmclcas.github.io/tags/test/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>woo!</title>
+      <link>https://cmclcas.github.io/tags/woo/</link>
+      <pubDate>Fri, 16 Jun 2023 12:11:45 -0400</pubDate>
+      
+      <guid>https://cmclcas.github.io/tags/woo/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
   </channel>
 </rss>
