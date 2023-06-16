@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cmclcas.github.io/</loc>
+    <loc>https://cmclcas.github.io/posts/</loc>
     <lastmod>2023-06-14T19:14:28-04:00</lastmod>
   </url><url>
-    <loc>https://cmclcas.github.io/posts/</loc>
+    <loc>https://cmclcas.github.io/</loc>
     <lastmod>2023-06-14T19:14:28-04:00</lastmod>
   </url><url>
     <loc>https://cmclcas.github.io/posts/test/</loc>
