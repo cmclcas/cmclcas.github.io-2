@@ -27,35 +27,5 @@
       <content></content>
     </item>
     
-    <item>
-      <title>radiohead</title>
-      <link>https://cmclcas.github.io/tags/radiohead/</link>
-      <pubDate>Fri, 16 Jun 2023 12:24:00 -0400</pubDate>
-      
-      <guid>https://cmclcas.github.io/tags/radiohead/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://cmclcas.github.io/tags/test/</link>
-      <pubDate>Fri, 16 Jun 2023 12:24:00 -0400</pubDate>
-      
-      <guid>https://cmclcas.github.io/tags/test/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>woo!</title>
-      <link>https://cmclcas.github.io/tags/woo/</link>
-      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cmclcas.github.io/tags/woo/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
   </channel>
 </rss>
